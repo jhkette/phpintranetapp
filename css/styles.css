@@ -19,13 +19,13 @@ html {
 }
 
 body {
-    font-family: 'Roboto', helvetica, arial, sans-serif;
+    font-family: 'Source Sans Pro', helvetica, arial, sans-serif;
     font-size: 1.75rem;
     color: var(--dark);
 }
 
 p {
-    font-family: 'Roboto', helvetica, arial, sans-serif;
+    font-family: 'Source Sans Pro', helvetica, arial, sans-serif;
     color: var(--dark);
     margin: 1.5rem 0;
 }

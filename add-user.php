@@ -12,7 +12,7 @@ if (!isset($_SESSION['admin'])) {  # check that the user is an admin else redire
         <title>Add user</title>
         <link rel="stylesheet" href="css/styles.css">
         <style>
-        @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab');
+        @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Roboto+Slab');
         </style>
     </head>
     <body>

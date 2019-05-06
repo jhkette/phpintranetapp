@@ -9,7 +9,7 @@
          <title>News</title>
          <link rel="stylesheet" type="text/css" href="css/styles.css" />
          <style>
-         @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab');
+         @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Roboto+Slab');
          </style>
      </head>
      <body>

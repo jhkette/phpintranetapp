@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/styles.css" />
         <style>
-        @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab');
+        @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Roboto+Slab');
         </style>
 	    <title>Problem Solving for Programming – PfP Results</title>
     </head>
