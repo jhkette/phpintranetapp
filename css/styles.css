@@ -20,7 +20,7 @@ html {
 
 body {
     font-family: 'Roboto', helvetica, arial, sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     color: var(--dark);
 }
 
@@ -122,22 +122,22 @@ h4 {
 
 .news-snippet {
     background-color: #fff3d4;
-    width: 18rem;
+    width: 25rem;
     height: 25rem;
     padding: 2rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    border-top: 5px solid #fbc12c;
+   
 }
 
 .events-snippet {
     background-color: #e2f0f6;
-    width: 18rem;
+    width: 25rem;
     height: 25rem;
     padding: 2rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    border-top: 5px solid var(--secondary);
+ 
 }
 
 .newuser {
@@ -172,7 +172,7 @@ h4 {
 /* main layout divs, section etc */
 
 .grey {
-    background-color: var(--tertiary);
+   
     height: 100%;
 }
 
@@ -197,7 +197,7 @@ h4 {
 
 .container {
     padding-bottom: 5rem;
-    min-height: 65rem
+    min-height: 100vh;
 }
 
 .main-body {
