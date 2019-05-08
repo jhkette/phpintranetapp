@@ -374,8 +374,8 @@ input[type="submit"i]:hover {
 }
 
 .button1 {
-    background-color: var(--secondary);
-    color: white;
+   
+    color: var(--dark);
     padding: 1.3rem 2rem;
     margin: 3rem 0 3rem 0;
     width: 14rem;
@@ -385,18 +385,16 @@ input[type="submit"i]:hover {
     display: flex;
     justify-content: space-between;
     text-decoration: none;
+    border: 1px solid var(--dark);
 }
 
 .button1 a {
     text-decoration: none;
-    color: #fff;
+    
     font-weight: normal;
 }
 
-.button1:hover {
-    background-color: var(--dark);
-    transition: .3s;
-}
+
 
 .arrow {
     width: 2rem;
