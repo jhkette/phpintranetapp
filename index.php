@@ -37,7 +37,9 @@
                                  if ($loggedState == false) {
                                  ?>
                                  <!--Only show button if not logged in  -->
-                                 <div class="button1"> <a href='login.php'> Log in</a> <img src="images/arrow.svg" alt="arrow" class="arrow"></div>
+                                 <a class="button-border" href='login.php'>   
+                                    Log in <img src="images/arrow.svg" alt="arrow" class="arrow">
+                                 </a>   
                                  <?php
                                  }
                                  ?>

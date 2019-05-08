@@ -147,8 +147,8 @@ h4 {
 }
 
 .line {
-    width: 80%;
-    margin: 4rem auto 0 auto;
+    width: 90%;
+    margin: 3rem auto 0 auto;
     border-top: 1px solid var(--secondary);
     padding-bottom: 4rem;
 }
@@ -356,15 +356,18 @@ label {
 }
 
 input[type="submit"i] {
-    background-color: var(--dark);
-    color: white;
+    background-color: var(--tertiary);
+    color: var(--dark);
     padding: 0rem;
     margin: 3.5rem 0;
     border: 0;
     font-size: 1.8rem;
-    height: 4.5rem;
+    height: 4rem;
     bottom: 0;
     width: 12rem;
+    border: 1px solid var(--dark);
+    border-radius: .3rem;
+    cursor: pointer;
 }
 
 input[type="submit"i]:hover {
@@ -373,25 +376,20 @@ input[type="submit"i]:hover {
     transition: .3s;
 }
 
-.button1 {
-   
-    color: var(--dark);
-    padding: 1.3rem 2rem;
-    margin: 3rem 0 3rem 0;
-    width: 14rem;
-    height: 5rem;
-    border: 0;
-    font-size: 1.8rem;
-    display: flex;
-    justify-content: space-between;
-    text-decoration: none;
-    border: 1px solid var(--dark);
-}
 
-.button1 a {
-    text-decoration: none;
-    
-    font-weight: normal;
+
+.button-border  {
+    border: 1px solid #1a1a1a;
+background-color: rgba(255, 255, 255, 0);
+color: #1a1a1a;
+padding: .8rem 1.9rem;
+margin: 2rem 0;
+text-decoration: none;
+font-weight: normal;
+position: unset;
+display: inline-block;
+font-size: 2rem;
+
 }
 
 
